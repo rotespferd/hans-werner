@@ -1,4 +1,7 @@
 {
-  "name": "Hans Werner",
-  "version": "0.1.0"
+  "name": "Hans-Werner",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "~3.9.0"
+  }
 }
